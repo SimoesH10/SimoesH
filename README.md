@@ -1,5 +1,12 @@
 ## Oiii, me chamo Darlan Almeida, e sou programador back-end!
 
+- Paginas Web
+- Web srcaping
+- Desenvolvimento da aplicações
+- Ánalise de dados
+- Consumo de API
+- integração com banco de dados
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="dan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
