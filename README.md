@@ -20,12 +20,6 @@
 </div>
   
   ##
- 
-<div> 
-  <a href = "mailto:adarlan748@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/darlan-almeida-92251a232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
 
 <div align="center">
 	<a href="https://github.com/josejefferson?tab=repositories">
@@ -33,4 +27,12 @@
 		<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darlan-Almeida&layout=compact&langs_count=7&theme=gruvbox" alt="Most used languages">
 		<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Darlan-Almeida&theme=dark&background=282828&border=e4e2e2&stroke=555555&ring=d8a52e&currStreakLabel=fd8019&sideNums=8ec07c&sideLabels=8ec07c&currStreakNum=8ec07c" alt="GitHub Streak">
 	</a>
+</div>
+
+
+
+<div> 
+  <a href = "mailto:adarlan748@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/darlan-almeida-92251a232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
 </div>
