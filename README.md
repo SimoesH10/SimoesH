@@ -1,4 +1,4 @@
-## Oiii, me chamo Darlan Almeida, e sou programador back-end com habilidades aplicáveis também no Front!
+## Olá, seja muito bem-vindo! Prazer, Darlan Almeida. Sou programador back-end com habilidades aplicáveis também no Front!
 
 - Paginas Web
 - Web srcaping
