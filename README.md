@@ -1,11 +1,6 @@
-## Olá, seja muito bem-vindo! Prazer, Darlan Almeida. Sou programador back-end com habilidades aplicáveis também no Front!
+## Olá, seja muito bem-vindo! Prazer, Hugo Simões. Sou aluno em programação  com habilidades aplicáveis!
 
 - Paginas Web
-- Web srcaping
-- Desenvolvimento da aplicações
-- Ánalise de dados
-- Consumo de API
-- integração com banco de dados
 
 
 <div style="display: inline_block"><br>
