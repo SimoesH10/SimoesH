@@ -1,4 +1,4 @@
-## Olá eu sou gay, seja muito bem-vindo! Prazer, Hugo Simões. Sou aluno em tecnologia e estou iniciando minha jornada no universo da programação!
+## Olá eu sou Hugo, seja muito bem-vindo! Prazer, Hugo Simões. Sou aluno em tecnologia e estou iniciando minha jornada no universo da programação!
 
 - Paginas Web
 - Java Script
